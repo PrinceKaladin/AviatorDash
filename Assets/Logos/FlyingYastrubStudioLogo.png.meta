@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 584027c7fa98f7c4d909993d101f7da1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5830098263068515025
+    second: FlyingYastrubStudioLogo_0
+  - first:
+      213: -4963051369958472432
+    second: FlyingYastrubStudioLogo_1
+  - first:
+      213: -4796828470381472899
+    second: FlyingYastrubStudioLogo_2
+  - first:
+      213: -834978218758919434
+    second: FlyingYastrubStudioLogo_3
+  - first:
+      213: 7374436917323588946
+    second: FlyingYastrubStudioLogo_4
+  - first:
+      213: 8893125805599768549
+    second: FlyingYastrubStudioLogo_5
+  - first:
+      213: 487280419781563006
+    second: FlyingYastrubStudioLogo_6
+  - first:
+      213: 1627891498886402520
+    second: FlyingYastrubStudioLogo_7
+  - first:
+      213: 68667314670694972
+    second: FlyingYastrubStudioLogo_8
+  - first:
+      213: 9141100152232212415
+    second: FlyingYastrubStudioLogo_9
+  - first:
+      213: -8159539378071830034
+    second: FlyingYastrubStudioLogo_10
+  - first:
+      213: -7349734461461280907
+    second: FlyingYastrubStudioLogo_11
+  - first:
+      213: 2194879032336679796
+    second: FlyingYastrubStudioLogo_12
+  - first:
+      213: 3712625629490711423
+    second: FlyingYastrubStudioLogo_13
+  - first:
+      213: 4380261829510248222
+    second: FlyingYastrubStudioLogo_14
+  - first:
+      213: -4779203993886571542
+    second: FlyingYastrubStudioLogo_15
+  - first:
+      213: 4455161746315610010
+    second: FlyingYastrubStudioLogo_16
+  - first:
+      213: -4191791944412922550
+    second: FlyingYastrubStudioLogo_17
+  - first:
+      213: -5850895485356634241
+    second: FlyingYastrubStudioLogo_18
+  - first:
+      213: -6301604547325299274
+    second: FlyingYastrubStudioLogo_19
+  - first:
+      213: -6359826937225272730
+    second: FlyingYastrubStudioLogo_20
+  - first:
+      213: 104667089421776933
+    second: FlyingYastrubStudioLogo_21
+  - first:
+      213: 4349644424205246268
+    second: FlyingYastrubStudioLogo_22
+  - first:
+      213: 5703876049273604062
+    second: FlyingYastrubStudioLogo_23
+  - first:
+      213: 2515377213592680277
+    second: FlyingYastrubStudioLogo_24
+  - first:
+      213: 3237179022561948462
+    second: FlyingYastrubStudioLogo_25
+  - first:
+      213: 8657246453358751383
+    second: FlyingYastrubStudioLogo_26
+  - first:
+      213: 1862616097149501271
+    second: FlyingYastrubStudioLogo_27
+  - first:
+      213: -5106305954796083185
+    second: FlyingYastrubStudioLogo_28
+  - first:
+      213: 7916921391168261122
+    second: FlyingYastrubStudioLogo_29
+  - first:
+      213: -2444517663559498513
+    second: FlyingYastrubStudioLogo_30
+  - first:
+      213: 6316948284830117203
+    second: FlyingYastrubStudioLogo_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_0
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 517
+        width: 542
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da12d72b7ba8e050800000000000000
+      internalID: 5830098263068515025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 512
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0150c9b0313bf1bb0800000000000000
+      internalID: -4963051369958472432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 383
+        width: 143
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d739e6ebbed3e6db0800000000000000
+      internalID: -4796828470381472899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 482
+        width: 105
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faafa3ebbf8964f0800000000000000
+      internalID: -834978218758919434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_4
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 538
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255699b0e43475660800000000000000
+      internalID: 7374436917323588946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 507
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef32a96dcaba6b70800000000000000
+      internalID: 8893125805599768549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_6
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 357
+        width: 129
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e725517c5fa23c600800000000000000
+      internalID: 487280419781563006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 469
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1900c71be679610800000000000000
+      internalID: 1627891498886402520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_8
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 393
+        width: 96
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3270a21f84f3f000800000000000000
+      internalID: 68667314670694972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_9
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 420
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7f1162826bbde70800000000000000
+      internalID: 9141100152232212415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_10
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 369
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1873faa2e73ce80800000000000000
+      internalID: -8159539378071830034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_11
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 413
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5774727a27f700a90800000000000000
+      internalID: -7349734461461280907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_12
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 372
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4738167d9d6c57e10800000000000000
+      internalID: 2194879032336679796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 227
+        width: 47
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b0ec5f655e58330800000000000000
+      internalID: 3712625629490711423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 227
+        width: 48
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1739232de0d9cc30800000000000000
+      internalID: 4380261829510248222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_15
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 227
+        width: 64
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae34343f94bdcadb0800000000000000
+      internalID: -4779203993886571542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_16
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 227
+        width: 18
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a970d0af00ae3dd30800000000000000
+      internalID: 4455161746315610010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 227
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d7ce48f63c3d5c0800000000000000
+      internalID: -4191791944412922550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_18
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 225
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f81613e817dcea0800000000000000
+      internalID: -5850895485356634241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_19
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 226
+        width: 64
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b570b13d043c88a0800000000000000
+      internalID: -6301604547325299274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_20
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 227
+        width: 65
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6622abda81b5db7a0800000000000000
+      internalID: -6359826937225272730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_21
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 225
+        width: 56
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528b8acc92ad37100800000000000000
+      internalID: 104667089421776933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_22
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 227
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f1304fe8a0d5c30800000000000000
+      internalID: 4349644424205246268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_23
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 227
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7cfcfdb0d382f40800000000000000
+      internalID: 5703876049273604062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_24
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 226
+        width: 56
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557bd4caf3a68e220800000000000000
+      internalID: 2515377213592680277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_25
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 227
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23b6227b25ccec20800000000000000
+      internalID: 3237179022561948462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_26
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 144
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e657108c7b42870800000000000000
+      internalID: 8657246453358751383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_27
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 145
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f3587c87759d910800000000000000
+      internalID: 1862616097149501271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_28
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 144
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08eae9d9c1c229b0800000000000000
+      internalID: -5106305954796083185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_29
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 145
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c86434f0e8edd60800000000000000
+      internalID: 7916921391168261122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_30
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 145
+        width: 10
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe44e58f224531ed0800000000000000
+      internalID: -2444517663559498513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingYastrubStudioLogo_31
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 145
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35defc51ffe4aa750800000000000000
+      internalID: 6316948284830117203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FlyingYastrubStudioLogo_0: 5830098263068515025
+      FlyingYastrubStudioLogo_1: -4963051369958472432
+      FlyingYastrubStudioLogo_10: -8159539378071830034
+      FlyingYastrubStudioLogo_11: -7349734461461280907
+      FlyingYastrubStudioLogo_12: 2194879032336679796
+      FlyingYastrubStudioLogo_13: 3712625629490711423
+      FlyingYastrubStudioLogo_14: 4380261829510248222
+      FlyingYastrubStudioLogo_15: -4779203993886571542
+      FlyingYastrubStudioLogo_16: 4455161746315610010
+      FlyingYastrubStudioLogo_17: -4191791944412922550
+      FlyingYastrubStudioLogo_18: -5850895485356634241
+      FlyingYastrubStudioLogo_19: -6301604547325299274
+      FlyingYastrubStudioLogo_2: -4796828470381472899
+      FlyingYastrubStudioLogo_20: -6359826937225272730
+      FlyingYastrubStudioLogo_21: 104667089421776933
+      FlyingYastrubStudioLogo_22: 4349644424205246268
+      FlyingYastrubStudioLogo_23: 5703876049273604062
+      FlyingYastrubStudioLogo_24: 2515377213592680277
+      FlyingYastrubStudioLogo_25: 3237179022561948462
+      FlyingYastrubStudioLogo_26: 8657246453358751383
+      FlyingYastrubStudioLogo_27: 1862616097149501271
+      FlyingYastrubStudioLogo_28: -5106305954796083185
+      FlyingYastrubStudioLogo_29: 7916921391168261122
+      FlyingYastrubStudioLogo_3: -834978218758919434
+      FlyingYastrubStudioLogo_30: -2444517663559498513
+      FlyingYastrubStudioLogo_31: 6316948284830117203
+      FlyingYastrubStudioLogo_4: 7374436917323588946
+      FlyingYastrubStudioLogo_5: 8893125805599768549
+      FlyingYastrubStudioLogo_6: 487280419781563006
+      FlyingYastrubStudioLogo_7: 1627891498886402520
+      FlyingYastrubStudioLogo_8: 68667314670694972
+      FlyingYastrubStudioLogo_9: 9141100152232212415
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
